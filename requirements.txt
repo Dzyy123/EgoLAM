@@ -1,0 +1,13 @@
+torch>=2.3
+torchvision
+timm==1.0.24
+safetensors
+huggingface_hub
+numpy
+opencv-python
+accelerate
+einops
+pandas
+scipy
+scikit-learn
+PyYAML

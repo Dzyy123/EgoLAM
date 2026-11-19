@@ -1,0 +1,11 @@
+{
+  "frozen_lam.safetensors": {
+    "sha256": "3dbd80a2e109688594c75912e6e97f8da61c06275fcac9f58ae36c21de15b75a"
+  },
+  "oc_slots.safetensors": {
+    "sha256": "7da2e56d78247dd8fbd38fa5f5c1667a1a49b6d4b23a4daa3726e65d9e4768db"
+  },
+  "config.json": {
+    "sha256": "d5efea5bf961c3f98adcd10c3a2139bd51114e1171b646a18e65ed6247436f29"
+  }
+}
